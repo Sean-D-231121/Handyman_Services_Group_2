@@ -52,3 +52,7 @@ body {
     .container-fluid {
       padding: 40px;
     }
+    .logo{
+        height: 60px;
+        width: 60px;
+    }

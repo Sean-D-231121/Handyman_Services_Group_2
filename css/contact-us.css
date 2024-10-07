@@ -5,6 +5,7 @@
 
     .navbar {
       background-color: #343a40;
+      height: 80px;
     }
 
     .navbar-brand, .nav-link {
@@ -58,4 +59,8 @@
 
     .contact-info p {
       font-weight: bold;
+    }
+    .logo{
+        height: 60px;
+        width: 60px;
     }

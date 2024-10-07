@@ -5,6 +5,7 @@ body {
 
         .navbar {
             background-color: #343a40;
+            height: 80px;
         }
 
         .navbar-brand, .nav-link {
@@ -66,3 +67,7 @@ body {
         .text-center {
             margin-top: 40px;
         }
+    .logo{
+        height: 60px;
+        width: 60px;
+    }   
